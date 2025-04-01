@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Hayford+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Data+Engineer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</div>
 
----
 
 <div align="">
   <h2>👋 Welcome to My GitHub Profile!</h2>
@@ -28,13 +24,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cehayford&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cehayford&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## 🤝 Connect with Me
 <div align="center">
@@ -47,10 +36,4 @@
   <a href="mailto:sean.alpha18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <h4>✨ Thanks for visiting my profile! ✨</h4>
 </div>
